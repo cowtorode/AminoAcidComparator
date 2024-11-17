@@ -14,6 +14,7 @@ I wrote this for some AP Biology homework that we had on phylogenetics.
 5. WDAVVIGGGH NGLTAAAYLA RGGLSVAVLE RRHVIGGAAV TEEIVPGFKF SRCSYLQGLL
 6. compute
 
+```
   0   1   2   3   4   5   
 0     38   33   20   23   42   
 1 38       33   33   32   42   
@@ -21,5 +22,6 @@ I wrote this for some AP Biology homework that we had on phylogenetics.
 3 20   33   33       18   40   
 4 23   32   30   18       40   
 5 42   42   42   40   40
+```
 
 // exit with exitcode 0
