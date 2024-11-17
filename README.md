@@ -25,3 +25,5 @@ I wrote this for some AP Biology homework that we had on phylogenetics.
 ```
 
 // exit with exitcode 0
+
+You can type `compute` to process the current input data, and you can type `stop` to exit the program.
