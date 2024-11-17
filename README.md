@@ -13,6 +13,7 @@ I wrote this for some AP Biology homework that we had on phylogenetics.
 4. KSVIVIGAGV GGVSTAARLA KAGFKVTILE KNDFTGGRCS LIH_NDGHRF DQGPSL__LL
 5. WDAVVIGGGH NGLTAAAYLA RGGLSVAVLE RRHVIGGAAV TEEIVPGFKF SRCSYLQGLL
 6. compute
+
   0   1   2   3   4   5   
 0     38   33   20   23   42   
 1 38       33   33   32   42   
